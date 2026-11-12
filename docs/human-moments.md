@@ -5,7 +5,7 @@ Productfeatures die de extensie als **digitale conciërge** positioneren, naast 
 ## A — Veilige gids
 
 - Knop **Ga naar echte Microsoft 365** op de blocked page en in de popup.
-- Policy / setting: `safeStartUrl` (standaard `https://www.office.com`).
+- Policy / setting: `safeStartUrl` (standaard `https://portal.office.com`).
 - Configureerbaar via Intune managed settings of Options (merged config).
 
 ## B — Bruinsma-moment

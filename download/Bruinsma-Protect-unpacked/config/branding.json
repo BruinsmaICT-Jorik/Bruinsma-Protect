@@ -53,7 +53,7 @@
     "securityBadgeText": "Beschermd door Bruinsma",
     "validBadgeTitle": "Dit is de echte Microsoft-inlog",
     "validBadgeSubtitle": "Beschermd door Bruinsma",
-    "safeStartUrl": "https://www.office.com",
+    "safeStartUrl": "https://portal.office.com",
     "safeStartLabel": "Ga naar echte Microsoft 365",
     "blockedPageTitle": "We hebben een verdachte inlogpagina gestopt",
     "blockedPageMessage": "Deze pagina lijkt Microsoft 365 na te bootsen om jouw inloggegevens te stelen. Log hier niet in — Bruinsma Protect heeft de toegang geblokkeerd."

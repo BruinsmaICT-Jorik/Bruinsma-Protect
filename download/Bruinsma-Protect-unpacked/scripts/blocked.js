@@ -6,7 +6,7 @@
 // Store detection details globally for false positive reporting
 let globalDetectionDetails = null;
 let webhookConfig = null;
-let safeStartUrl = "https://www.office.com";
+let safeStartUrl = "https://portal.office.com";
 let supportEmail = "info@bruinsmakantoor.nl";
 const falsePositiveReportEmail = "help@bruinsma-ict.nl";
 
@@ -148,7 +148,7 @@ function goBack() {
 }
 
 function openSafeStart() {
-  const url = safeStartUrl || "https://www.office.com";
+  const url = safeStartUrl || "https://portal.office.com";
   try {
     window.location.href = url;
   } catch (error) {

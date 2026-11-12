@@ -29,10 +29,10 @@
     },
     "safeStartUrl": {
       "title": "Safe Microsoft 365 Start URL",
-      "description": "URL opened by the ‘Ga naar echte Microsoft 365’ button on the blocked page and in the popup. Use the organisation’s preferred safe entry point (e.g. https://www.office.com or a company portal).",
+      "description": "URL opened by the ‘Ga naar echte Microsoft 365’ button on the blocked page and in the popup. Use the organisation’s preferred safe entry point (e.g. https://portal.office.com or a company portal).",
       "type": "string",
       "format": "uri",
-      "default": "https://www.office.com"
+      "default": "https://portal.office.com"
     },
     "enableCippReporting": {
       "title": "CIPP Reporting Enabled",

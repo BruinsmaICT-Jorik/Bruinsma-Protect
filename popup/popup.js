@@ -1201,7 +1201,7 @@ class CheckPopup {
   getSafeStartUrl() {
     const fromConfig = this.config?.safeStartUrl;
     const fromBranding = this.brandingConfig?.features?.safeStartUrl;
-    return fromConfig || fromBranding || "https://www.office.com";
+    return fromConfig || fromBranding || "https://portal.office.com";
   }
 
   openSafeMicrosoft365() {

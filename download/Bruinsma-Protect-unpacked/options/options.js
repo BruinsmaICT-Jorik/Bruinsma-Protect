@@ -944,7 +944,7 @@ class CheckOptions {
     }
     if (this.elements.safeStartUrl) {
       this.elements.safeStartUrl.value =
-        this.config?.safeStartUrl || "https://www.office.com";
+        this.config?.safeStartUrl || "https://portal.office.com";
     }
     if (this.elements.enableCippReporting) {
       this.elements.enableCippReporting.checked =
@@ -1221,7 +1221,7 @@ class CheckOptions {
       // Extension settings
       enablePageBlocking: this.elements.enablePageBlocking?.checked !== false,
       safeStartUrl:
-        this.elements.safeStartUrl?.value?.trim() || "https://www.office.com",
+        this.elements.safeStartUrl?.value?.trim() || "https://portal.office.com",
       enableCippReporting: this.elements.enableCippReporting?.checked || false,
       cippServerUrl: this.elements.cippServerUrl?.value || "",
       cippTenantId: this.elements.cippTenantId?.value || "",

@@ -296,7 +296,7 @@ export class ConfigManager {
       notificationDuration: 5000,
       enableValidPageBadge: true,
       enablePageBlocking: true,
-      safeStartUrl: "https://www.office.com",
+      safeStartUrl: "https://portal.office.com",
 
       // Debug settings
       enableDebugLogging: false,
@@ -378,7 +378,7 @@ export class ConfigManager {
       features: {
         validBadgeTitle: "Dit is de echte Microsoft-inlog",
         validBadgeSubtitle: "Beschermd door Bruinsma",
-        safeStartUrl: "https://www.office.com",
+        safeStartUrl: "https://portal.office.com",
         safeStartLabel: "Ga naar echte Microsoft 365",
         blockedPageTitle: "We hebben een verdachte inlogpagina gestopt",
         blockedPageMessage:
