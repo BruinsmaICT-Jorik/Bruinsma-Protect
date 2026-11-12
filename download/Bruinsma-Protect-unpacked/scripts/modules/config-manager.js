@@ -132,7 +132,7 @@ export class ConfigManager {
             productName: "Bruinsma Protect",
             supportUrl: "https://bruinsmakantoor.nl/ict/",
             privacyPolicyUrl:
-              "https://github.com/BruinsmaICT-Jorik/Bruinsma-Protect/blob/main/docs/privacy-avg.md",
+              "https://bruinsmakantoor.nl/ict/privacybeleid-bruinsma-protect/",
             aboutUrl: "https://bruinsmakantoor.nl/ict/over-ons/",
             primaryColor: "#299DCF",
             logoUrl: "images/icon48.png",
@@ -365,7 +365,7 @@ export class ConfigManager {
       supportEmail: "info@bruinsmakantoor.nl",
       supportUrl: "https://bruinsmakantoor.nl/ict/",
       privacyPolicyUrl:
-        "https://github.com/BruinsmaICT-Jorik/Bruinsma-Protect/blob/main/docs/privacy-avg.md",
+        "https://bruinsmakantoor.nl/ict/privacybeleid-bruinsma-protect/",
       aboutUrl: "https://bruinsmakantoor.nl/ict/over-ons/",
       termsOfServiceUrl: "",
 

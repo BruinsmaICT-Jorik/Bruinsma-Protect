@@ -1,6 +1,8 @@
 # Bruinsma Protect — Privacy & AVG
 
-Korte privacyverklaring voor de browserextensie **Bruinsma Protect** (fork van Check by CyberDrain, AGPL-3.0).
+Korte privacyverklaring voor de browserextensie **Bruinsma Protect**
+
+Publieke versie: [bruinsmakantoor.nl/ict/privacybeleid-bruinsma-protect](https://bruinsmakantoor.nl/ict/privacybeleid-bruinsma-protect/). (fork van Check by CyberDrain, AGPL-3.0).
 
 ## Wat doet de extensie?
 
