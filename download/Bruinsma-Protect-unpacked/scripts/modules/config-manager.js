@@ -365,7 +365,7 @@ export class ConfigManager {
       supportEmail: "info@bruinsmakantoor.nl",
       supportUrl: "https://bruinsmakantoor.nl/ict/",
       privacyPolicyUrl:
-        "https://github.com/BruinsmaICT-Jorik/IsThePageReal/blob/main/docs/privacy-avg.md",
+        "https://github.com/BruinsmaICT-Jorik/Bruinsma-Protect/blob/main/docs/privacy-avg.md",
       aboutUrl: "https://bruinsmakantoor.nl/ict/over-ons/",
       termsOfServiceUrl: "",
 
