@@ -42,4 +42,4 @@ Medewerkers kunnen vragen richten aan de eigen IT-/privacycontactpersoon, of via
 
 ## Broncode
 
-De extensie is open source onder AGPL-3.0. Upstream: [Check by CyberDrain](https://github.com/CyberDrain/Check). Fork: [BruinsmaICT-Jorik/IsThePageReal](https://github.com/BruinsmaICT-Jorik/IsThePageReal).
+De extensie is open source onder AGPL-3.0. Upstream: [Check by CyberDrain](https://github.com/CyberDrain/Check). Fork: [BruinsmaICT-Jorik/Bruinsma-Protect](https://github.com/BruinsmaICT-Jorik/Bruinsma-Protect).

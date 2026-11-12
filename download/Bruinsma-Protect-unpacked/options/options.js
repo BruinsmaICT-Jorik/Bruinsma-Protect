@@ -421,7 +421,7 @@ class CheckOptions {
         showNotifications: true,
         enableValidPageBadge: false,
         customRulesUrl:
-          "https://raw.githubusercontent.com/BruinsmaICT-Jorik/Bruinsma Protect/refs/heads/main/rules/detection-rules.json",
+          "https://raw.githubusercontent.com/BruinsmaICT-Jorik/Bruinsma-Protect/refs/heads/main/rules/detection-rules.json",
         updateInterval: 24,
         enableDebugLogging: false,
         enableDeveloperConsoleLogging: false,
@@ -2523,7 +2523,7 @@ class CheckOptions {
           cippServerUrl: "",
           cippTenantId: "",
           customRulesUrl:
-            "https://raw.githubusercontent.com/BruinsmaICT-Jorik/Bruinsma Protect/refs/heads/main/rules/detection-rules.json",
+            "https://raw.githubusercontent.com/BruinsmaICT-Jorik/Bruinsma-Protect/refs/heads/main/rules/detection-rules.json",
           updateInterval: 24,
           enableDebugLogging: false,
           // Note: enableDeveloperConsoleLogging is not policy-managed - remains under user control

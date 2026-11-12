@@ -2,7 +2,7 @@
   "companyName": "Bruinsma",
   "productName": "Bruinsma Protect",
   "supportUrl": "https://bruinsmakantoor.nl/ict/",
-  "privacyPolicyUrl": "https://github.com/BruinsmaICT-Jorik/IsThePageReal/blob/main/docs/privacy-avg.md",
+  "privacyPolicyUrl": "https://github.com/BruinsmaICT-Jorik/Bruinsma-Protect/blob/main/docs/privacy-avg.md",
   "aboutUrl": "https://bruinsmakantoor.nl/ict/over-ons/",
   "version": "1.2.2",
   "description": "Bescherming tegen phishing die Microsoft 365-inlogpagina's nabootsen \u2014 Bruinsma Protect voor jouw organisatie",
@@ -77,7 +77,7 @@
     "twitter": "",
     "linkedin": "https://www.linkedin.com/company/bruinsma-kantoor",
     "youtube": "",
-    "github": "https://github.com/BruinsmaICT-Jorik/IsThePageReal"
+    "github": "https://github.com/BruinsmaICT-Jorik/Bruinsma-Protect"
   },
   "whiteLabel": {
     "enabled": true,

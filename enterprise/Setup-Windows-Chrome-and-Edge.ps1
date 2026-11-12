@@ -18,7 +18,7 @@ Write-Host "and walk you through configuring each setting for your environment."
 Write-Host ""
 
 # GitHub raw URLs for the template scripts
-$baseUrl = "https://raw.githubusercontent.com/BruinsmaICT-Jorik/IsThePageReal/refs/heads/main/enterprise"
+$baseUrl = "https://raw.githubusercontent.com/BruinsmaICT-Jorik/Bruinsma-Protect/refs/heads/main/enterprise"
 $scripts = @{
     Deploy = @{ Url = "$baseUrl/Deploy-Windows-Chrome-and-Edge.ps1"; FileName = "Deploy-Windows-Chrome-and-Edge.ps1" }
     Remove = @{ Url = "$baseUrl/Remove-Windows-Chrome-and-Edge.ps1"; FileName = "Remove-Windows-Chrome-and-Edge.ps1" }

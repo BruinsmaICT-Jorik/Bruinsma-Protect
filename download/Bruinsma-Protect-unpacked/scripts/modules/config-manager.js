@@ -108,7 +108,7 @@ export class ConfigManager {
           cippServerUrl: "",
           cippTenantId: "",
           customRulesUrl:
-            "https://raw.githubusercontent.com/BruinsmaICT-Jorik/IsThePageReal/refs/heads/main/rules/detection-rules.json",
+            "https://raw.githubusercontent.com/BruinsmaICT-Jorik/Bruinsma-Protect/refs/heads/main/rules/detection-rules.json",
           updateInterval: 24,
           enableDebugLogging: false,
           domainSquatting: {
@@ -132,7 +132,7 @@ export class ConfigManager {
             productName: "Bruinsma Protect",
             supportUrl: "https://bruinsmakantoor.nl/ict/",
             privacyPolicyUrl:
-              "https://github.com/BruinsmaICT-Jorik/IsThePageReal/blob/main/docs/privacy-avg.md",
+              "https://github.com/BruinsmaICT-Jorik/Bruinsma-Protect/blob/main/docs/privacy-avg.md",
             aboutUrl: "https://bruinsmakantoor.nl/ict/over-ons/",
             primaryColor: "#299DCF",
             logoUrl: "images/icon48.png",
@@ -301,7 +301,7 @@ export class ConfigManager {
       enableDebugLogging: false,
 
       // Custom rules - centralized at top level
-      customRulesUrl: "https://raw.githubusercontent.com/BruinsmaICT-Jorik/IsThePageReal/refs/heads/main/rules/detection-rules.json",
+      customRulesUrl: "https://raw.githubusercontent.com/BruinsmaICT-Jorik/Bruinsma-Protect/refs/heads/main/rules/detection-rules.json",
       updateInterval: 24, // hours
 
       // Domain squatting runtime settings (baseline MS domains live in rules/detection-rules.json)

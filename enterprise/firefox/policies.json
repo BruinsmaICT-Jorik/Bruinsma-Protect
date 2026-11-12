@@ -25,7 +25,7 @@
           "enableCippReporting": false,
           "cippServerUrl": "",
           "cippTenantId": "",
-          "customRulesUrl": "https://raw.githubusercontent.com/BruinsmaICT-Jorik/IsThePageReal/refs/heads/main/rules/detection-rules.json",
+          "customRulesUrl": "https://raw.githubusercontent.com/BruinsmaICT-Jorik/Bruinsma-Protect/refs/heads/main/rules/detection-rules.json",
           "updateInterval": 24,
           "urlAllowlist": [],
           "domainSquatting": {
